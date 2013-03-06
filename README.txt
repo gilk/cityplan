@@ -1,0 +1,1 @@
+A small piece of code that needs to be customised for each city to be applied in which throws a series of pairs of points in a city and then compares the ratio of the walking distance, found using directions from google maps, and the straight line distance, using longitude and latitude.
